@@ -189,7 +189,7 @@ def user_stats(df, city):
    
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*50)
 
 def display_data(df, mark_place):
     
